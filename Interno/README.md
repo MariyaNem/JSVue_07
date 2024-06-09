@@ -1,19 +1,9 @@
-# interno
+## Работа с макетом
 
-## Project setup
-```
-npm install
-```
+Установите VueX и добавьте к проекту.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Приступаем к вёрстке новой страницы project details (Домашнее задание 7):
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Информацию про описание проекта вынести в state.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Слайдер можно сделать самостоятельно с помощью vue или сделать с помощью bootstrap.
